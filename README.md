@@ -58,3 +58,8 @@ const swiper = new Swiper('.swiper-container', {
 Colores: Puedes cambiar el color de fondo principal modificando la propiedad background en el body dentro de style.css.
 
 Dimensiones: El tamaño máximo de la tarjeta se ajusta en la clase .swiper-container (max-width y height).
+
+# 📷 Imagen
+![Login UI](imagen/Foto.png)
+
+# 🌐 Sitio Web
